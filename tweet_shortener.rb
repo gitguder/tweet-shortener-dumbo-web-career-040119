@@ -5,7 +5,7 @@ def dictionary
    "hello" => "hi",
    "too" => "2",
    "to" => "2",
-   "two" => "b",
+   "two" => "2",
    "you" => "u",
    "at" => "@",
    "and" => "&"
