@@ -1,11 +1,11 @@
-require 'pry'
+
 # Write your code here.
 def dictionary
  {
    "hello" => "hi",
-   "to, two, too" => "2",
-   "for, four" => "4",
-   "be" => "b",
+   "too" => "2",
+   "to" => "2",
+   "two" => "b",
    "you" => "u",
    "at" => "@",
    "and" => "&"
