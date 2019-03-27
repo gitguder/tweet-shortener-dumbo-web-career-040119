@@ -17,7 +17,7 @@ def word_substituter(tweet)
   array = tweet.split(" ")
 
   array.collect do |word|
-    if word == dictionary.keys
+    if dictionary.keys.include?(word.downcase)
       word = dictionary[word]
     else
       word
